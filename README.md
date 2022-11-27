@@ -6,7 +6,7 @@ search german mediathek ard zdf
 - Gtk3
 
 ## Usage
-```python3 mediathekfinder.py```
+```python3 ./mediathekfinder.py```
 
 Standalone Version for Linux in [Releases](https://github.com/Axel-Erfurt/MediathekFinder/releases/tag/1.0)
 
